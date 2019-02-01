@@ -34,7 +34,7 @@ section{
     width:425;
     position:position:absolute;
     left:50%;
-    margin-left:250px
+    <!-- margin-left:250px --!>
 }
 
 hr {
