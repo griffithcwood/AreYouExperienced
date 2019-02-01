@@ -1,0 +1,48 @@
+body {
+    background-color:#FFFF00;
+}
+
+h1 {
+    color: #B133C2;
+    font-family: Andale Mono;
+}
+h2 {
+    color: #B133C2;
+    font-family: Andale Mono;
+}
+
+p {
+    color: #5B22A6;
+    font-family: Andale Mono;
+    
+}
+
+pre {
+    color: #5B22A6;
+    font-family: Andale Mono;
+    
+}
+
+
+a {
+    color: #B133C2;
+    text-decoration: underline; 
+    font-family: Andale Mono;
+}
+
+section{
+    width:425;
+    position:position:absolute;
+    left:50%;
+    margin-left:250px
+}
+
+hr {
+    color: #5B22A6;
+    width: 15 px; 
+    
+}
+
+
+
+<!-- "What is music m'love'? PUFF PUFF" --!>
